@@ -1,4 +1,4 @@
-# Hi there 👋
+# INTRODUCTION
 
 I am a 20-year-old developer and cybersecurity enthusiast. Right now, I am focusing on building full-stack applications and mastering the fundamentals of security.
 
