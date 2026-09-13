@@ -2,7 +2,7 @@
 
 I am a 20-year-old developer and cybersecurity enthusiast. I am focusing on building full-stack applications and mastering the fundamentals of security.
 <br>
-## 🚀 What I'm Up To
+## https://custom-icon-badges.demolab.com/badge/activity-red.svg?logo=activity&logoSource=feather What I'm Up To
 * 💻 **Learning:** Full-Stack Web Development
 * 🛡️ **Exploring:** Cybersecurity Fundamentals
 * 🎯 **Goal:** Learning the best practices and applying them to software i make as well as cyber threats.
