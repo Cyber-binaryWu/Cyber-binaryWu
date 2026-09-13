@@ -12,6 +12,7 @@ I am a 20-year-old developer and cybersecurity enthusiast. I am focusing on buil
 
 
 <p align="center">
+  <h3>SKILLS<h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,java,python,html,css,sqlite" alt="My Skills" />
   </a>
