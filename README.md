@@ -11,5 +11,5 @@ I am a 20-year-old developer and cybersecurity enthusiast. I am focusing on buil
 > **"Cybersecurity is often underfunded until a breach happens—which costs far more in the long run and destroys customer trust."**
 
 
-## Languages
-[![My Skills](https://skillicons.dev/icons?i=js,java,python,nasm)](https://skillicons.dev)
+## Skills
+[![My Skills](https://skillicons.dev/icons?i=js,java,python,sqlite)](https://skillicons.dev)
