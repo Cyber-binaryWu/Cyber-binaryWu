@@ -1,7 +1,7 @@
 # INTRODUCTION
 
 I am a 20-year-old developer and cybersecurity enthusiast. I am focusing on building full-stack applications and mastering the fundamentals of security.
-<br><br><br>
+<br>
 ## 🚀 What I'm Up To
 * 💻 **Learning:** Full-Stack Web Development
 * 🛡️ **Exploring:** Cybersecurity Fundamentals
